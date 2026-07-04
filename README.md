@@ -172,16 +172,6 @@ MLOps          ██████████████░░░░░░░�
 
 <br>
 
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ACUTE02/ACUTE02/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the companion GitHub Action to your profile repo to keep this alive</sub>
-
-</div>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
