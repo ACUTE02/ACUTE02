@@ -154,7 +154,6 @@ MLOps          ██████████████░░░░░░░�
 
 <br><br>
 
-<img src="https://github-readme-trophy.vercel.app/?username=ACUTE02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 
 </div>
 
