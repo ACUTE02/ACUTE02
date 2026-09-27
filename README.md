@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+Multi-Agent+GenAI+Systems;%E2%9A%99%EF%B8%8F+LangGraph+%2B+RAG+%2B+LLM+Orchestration;%F0%9F%A7%A0+Deep+Learning+%26+Time-Series+Forecasting;%F0%9F%91%81%EF%B8%8F+Computer+Vision+Developer;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+AWS;%F0%9F%9A%80+Always+Shipping...&alt=Typing+SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+Multi-Agent+GenAI+Systems;%E2%9A%99%EF%B8%8F+LangGraph+%2B+RAG+%2B+Mechanical+Grounding;%F0%9F%A7%A0+Time-Series+Forecasting+%26+Deep+Learning;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+AWS;%F0%9F%9A%80+Shipping+Tested%2C+Honestly-Evaluated+AI...&alt=Typing+SVG"/>
 
 <br><br>
 
@@ -33,9 +33,9 @@
 
 🎓 &nbsp;**B.Tech CSE (AI & ML)** @ VIT Bhopal University — CGPA **8.40**
 ☁️ &nbsp;**AWS Certified Solutions Architect & AI Practitioner**
-🤖 &nbsp;Building production-grade **GenAI** systems with **FastAPI, LangChain & Gemini LLMs**
-🕸️ &nbsp;Currently engineering a **5-agent Climate Risk Analyst** — RAG + LSTM forecasting + LangGraph orchestration
-📊 &nbsp;Love turning research-grade ML into real, deployable systems
+🤖 &nbsp;Building agentic GenAI systems with **LangGraph, FastAPI & Gemini** — orchestrated, tested, and mechanically fact-checked, not just prompted
+🌾 &nbsp;Shipped a **6-agent Climate Risk Analyst** — drought/heat forecasting + RAG + a non-LLM grounding verifier that catches its own hallucinations
+📊 &nbsp;I'd rather report "no skill, honestly" than fake a confident number
 🌱 &nbsp;Forever a student of the ever-evolving AI landscape
 
 </td>
@@ -44,17 +44,11 @@
 
 <div align="center">
 
-### 🔭 Currently Building
+### 🔭 Currently Building & Exploring
 
-**Multi-Agent Climate Risk Analyst** — a 5-agent RAG + forecasting pipeline integrating IPCC AR6 reports and 44 years of IMD climate data via ChromaDB, with stacked LSTM & SPI crop-impact tools running through a ReAct agentic framework, evaluated with RAGAS.
-
-</div>
+**Most recently shipped:** [Multi-Agent Climate Risk Analyst](https://github.com/ACUTE02/Muti-Agent-Climate-Risk-Analyst) — a 6-agent RAG + forecasting pipeline over IMD/NASA POWER climate data, orchestrated with LangGraph, with a mechanical (non-LLM) layer that verifies every number before it ships.
 
 <br>
-
-<div align="center">
-
-### 💡 Currently Exploring
 
 <img src="https://img.shields.io/badge/Large_Language_Models-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agentic_AI-3B82F6?style=for-the-badge&logo=robotframework&logoColor=white"/>
@@ -62,7 +56,7 @@
 <br>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vector_DBs-06B6D4?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-F59E0B?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eval_%26_Grounding-F59E0B?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
 
@@ -74,7 +68,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="140"><b>💻 Languages</b></td>
+<td align="center" width="160"><b>💻 Languages</b></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark&perline=3" height="55"/>
@@ -85,13 +79,19 @@
 <td align="center"><b>🧠 AI / ML / DL</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" height="55"/>
-<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark&perline=3" height="55"/>
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 GenAI & Agentic Systems</b></td>
+<td>
+
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tavily_Search-8B5CF6?style=flat-square"/>
 
 </td>
 </tr>
@@ -108,6 +108,15 @@
 </td>
 </tr>
 <tr>
+<td align="center"><b>🗄️ Databases & Vector Stores</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-8B5CF6?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
 <td align="center"><b>📊 Data & Viz</b></td>
 <td>
 
@@ -115,16 +124,6 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-5B8FA8?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
 
 </td>
 </tr>
@@ -148,43 +147,28 @@
 
 <table>
 <tr>
-<th>📁 Project</th>
-<th>📝 Description</th>
-<th>⭐</th>
+<th align="left">📁 Project</th>
+<th align="left">📝 What it actually does</th>
+<th>🛠️ Stack</th>
+</tr>
+<tr>
+<td>🌾 <a href="https://github.com/ACUTE02/Muti-Agent-Climate-Risk-Analyst"><b>Multi-Agent Climate Risk Analyst</b></a></td>
+<td>6 LangGraph agents (drought, heat, RAG, crop-impact, synthesis) plus a <b>non-LLM grounding checker</b> that verifies every number a report claims. Ridge forecast: +0.21–0.26 skill vs. climatology at 1-month lead, honestly labeled <code>no skill</code> at 3 months. 248+ tests.</td>
+<td>Python · LangGraph · Gemini · ChromaDB · FastAPI · Docker</td>
+</tr>
+<tr>
+<td>🔎 <a href="https://github.com/ACUTE02/Muti-Agent-AI-Research"><b>Deep Research Agent</b></a></td>
+<td>LangChain search agent → Tavily → BeautifulSoup scraping → Gemini report writer → a second Gemini pass that critiques and scores its own output. Streamlit UI.</td>
+<td>Python · LangChain · Gemini · Tavily · Streamlit</td>
 </tr>
 <tr>
 <td>🧠 <a href="https://github.com/ACUTE02/adaptive-learning-platform"><b>Adaptive AI Learning Platform</b></a></td>
-<td>Full-stack GenAI LMS — LLM-generated courses, Ebbinghaus decay-based retention tracking, dynamic difficulty adjustment & auto-remediation</td>
-<td>5 🍴1</td>
-</tr>
-<tr>
-<td>🌊 <a href="https://github.com/ACUTE02/LSTM_model_drought_"><b>Drought Trend Prediction (LSTM)</b></a></td>
-<td>Stacked LSTM time-series model for long-term drought forecasting — seasonal decomposition, no-leakage chronological splits</td>
-<td>1</td>
-</tr>
-<tr>
-<td>📊 <a href="https://github.com/ACUTE02/Data-Analysis-Visualization"><b>IPL Data Analysis & Visualization</b></a></td>
-<td>End-to-end EDA on IPL match data with Pandas, Matplotlib & Seaborn — winning teams, toss impact & more</td>
-<td>5</td>
-</tr>
-<tr>
-<td>📐 <a href="https://github.com/ACUTE02/Statistical-Hypothesis-Testing-and-Outlier-Detection"><b>Statistical Hypothesis Testing & Outlier Detection</b></a></td>
-<td>Z-Test, hypothesis testing & outlier detection techniques core to data science workflows</td>
-<td>4</td>
-</tr>
-<tr>
-<td>📉 <a href="https://github.com/ACUTE02/Revision_Data_visualization_-"><b>Python Data Visualization</b></a></td>
-<td>Complete practice repo — line plots, heatmaps, box plots, pair plots & regression plots with Matplotlib/Seaborn/Plotly</td>
-<td>2</td>
-</tr>
-<tr>
-<td>🐼 <a href="https://github.com/ACUTE02/python_Data_Science_Revision"><b>Python for Data Science Revision</b></a></td>
-<td>Personal revision notes on NumPy & Pandas — the two core libraries for data science</td>
-<td>2</td>
+<td>Extended the open-source <a href="https://github.com/learnhouse/learnhouse">LearnHouse</a> LMS with an AI layer: Ebbinghaus-curve retention engine, dynamic-difficulty routing, Gemini-generated courses & assessments.</td>
+<td>FastAPI · TypeScript/React · PostgreSQL · Gemini</td>
 </tr>
 </table>
 
-<sub>21 public repositories · 33 stars earned · <a href="https://github.com/ACUTE02?tab=repositories">see all repos →</a></sub>
+<sub>Also on GitHub: <a href="https://github.com/ACUTE02/LSTM_model_drought_">LSTM drought forecasting</a> · <a href="https://github.com/ACUTE02/Data-Analysis-Visualization">IPL data analysis</a> · <a href="https://github.com/ACUTE02/Statistical-Hypothesis-Testing-and-Outlier-Detection">statistical hypothesis testing</a> · <a href="https://github.com/ACUTE02?tab=repositories">see all repos →</a></sub>
 
 </div>
 
@@ -207,24 +191,6 @@
 <br>
 <img src="https://img.shields.io/badge/Applied_ML_in_Python-Univ._of_Michigan-00274C?style=for-the-badge&logo=coursera&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<h2 align="center">🌱 Currently Learning</h2>
-
-<div align="center">
-
-```text
-LLMs           ██████████████░░░░░░░░░░░░░░  50%
-Agentic AI     ████████████░░░░░░░░░░░░░░░░  42%
-RAG            ███████████░░░░░░░░░░░░░░░░░  38%
-AWS            █████████████████░░░░░░░░░░░  58%
-MLOps          ██████████████░░░░░░░░░░░░░░  48%
-```
 
 </div>
 
