@@ -1,42 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,25:2C5364,50:2563EB,75:7C3AED,100:C026D3&text=Ayushmaan%20Gupta&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Agentic%20AI%20%7C%20GenAI%20Engineer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0e14,45:101722,100:f2b95a&text=Ayushmaan%20Gupta&fontColor=eef2f7&fontSize=62&fontAlignY=38&desc=I%20build%20AI%20that%20forecasts%2C%20retrieves%2C%20verifies%20and%20admits%20its%20limits&descAlignY=58&descSize=19&animation=fadeIn"/>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+Multi-Agent+GenAI+Systems;%E2%9A%99%EF%B8%8F+LangGraph+%2B+RAG+%2B+Mechanical+Grounding;%F0%9F%A7%A0+Time-Series+Forecasting+%26+Deep+Learning;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+AWS;%F0%9F%9A%80+Shipping+Tested%2C+Honestly-Evaluated+AI...&alt=Typing+SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=24&duration=2600&pause=900&color=F2B95A&center=true&vCenter=true&width=820&lines=Agentic+GenAI+%C2%B7+LangGraph+%C2%B7+RAG;Fine-tuning+%26+serving+small+language+models;Fraud+models+that+state+their+limits;%22No+skill%22+beats+a+confident+number+I+can't+defend" alt="typing"/>
 
 <br><br>
 
-<a href="https://github.com/ACUTE02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ayushmaan-gupta-6b22a828a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ayushmaangupta225@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://portfolioayushmaangupta.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-3D_SITE-f2b95a?style=for-the-badge&labelColor=0a0e14&logo=vercel&logoColor=f2b95a"/></a>
+<a href="https://www.linkedin.com/in/ayushmaan-gupta-6b22a828a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8fb4e8?style=for-the-badge&labelColor=0a0e14&logo=linkedin&logoColor=8fb4e8"/></a>
+<a href="mailto:ayushmaangupta225@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-e3a3d6?style=for-the-badge&labelColor=0a0e14&logo=gmail&logoColor=e3a3d6"/></a>
+<a href="https://github.com/ACUTE02?tab=repositories"><img src="https://img.shields.io/badge/REPOS-27_PUBLIC-6fd3c4?style=for-the-badge&labelColor=0a0e14&logo=github&logoColor=6fd3c4"/></a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ACUTE02&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&labelColor=1a1b27"/>
+<img src="https://komarev.com/ghpvc/?username=ACUTE02&style=flat-square&color=f2b95a&label=PROFILE+VIEWS&labelColor=0a0e14"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f2b95a,50:e3a3d6,100:8fb4e8" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center">
 
-<br>
+### ✦ &nbsp;The short version
+
+</div>
 
 <table align="center">
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 👨‍💻 About Me
+**🎓 Education**<br>
+B.Tech CSE (AI & ML), VIT Bhopal<br>
+CGPA **8.40**, 2023 to 2027
 
-🎓 &nbsp;**B.Tech CSE (AI & ML)** @ VIT Bhopal University — CGPA **8.40**
-☁️ &nbsp;**AWS Certified Solutions Architect & AI Practitioner**
-🤖 &nbsp;Building agentic GenAI systems with **LangGraph, FastAPI & Gemini** — orchestrated, tested, and mechanically fact-checked, not just prompted
-🌾 &nbsp;Shipped a **6-agent Climate Risk Analyst** — drought/heat forecasting + RAG + a non-LLM grounding verifier that catches its own hallucinations
-📊 &nbsp;I'd rather report "no skill, honestly" than fake a confident number
-🌱 &nbsp;Forever a student of the ever-evolving AI landscape
+**☁️ Certified**<br>
+AWS Solutions Architect<br>
+AWS AI Practitioner
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 What I care about**<br>
+Systems that check themselves, evaluations that can be repeated, and results reported with their error bars.
+
+**🔭 Right now**<br>
+Small language models: tuning them, measuring them, serving them.
 
 </td>
 </tr>
@@ -44,199 +52,138 @@
 
 <div align="center">
 
-### 🔭 Currently Building & Exploring
-
-**Most recently shipped:** [Multi-Agent Climate Risk Analyst](https://github.com/ACUTE02/Muti-Agent-Climate-Risk-Analyst) — a 6-agent RAG + forecasting pipeline over IMD/NASA POWER climate data, orchestrated with LangGraph, with a mechanical (non-LLM) layer that verifies every number before it ships.
-
 <br>
 
-<img src="https://img.shields.io/badge/Large_Language_Models-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic_AI-3B82F6?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-EC4899?style=for-the-badge&logo=databricks&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_DBs-06B6D4?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eval_%26_Grounding-F59E0B?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+|  **406**  |  **0.7482**  |  **11 / 11**  |  **+0.21 to +0.26**  |
+| :---: | :---: | :---: | :---: |
+| passing tests<br>Grow Vyaapar | PR-AUC, time split<br>TrustMesh | correct refusals<br>Climate SLM, 1.5B | forecast skill vs climatology<br>Climate Risk Analyst |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8fb4e8,50:6fd3c4,100:f2b95a" width="100%"/>
+
+<div align="center">
+
+### ✦ &nbsp;Featured work
+
+<sub>Every number below is measured and is written together with its limits in the repo.</sub>
+
+<br><br>
+
+<a href="https://github.com/ACUTE02/Trust_Mesh"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ACUTE02&repo=Trust_Mesh&bg_color=0a0e14&title_color=f2b95a&text_color=eef2f7&icon_color=8fb4e8&border_color=1c2635&border_radius=14"/></a>
+<a href="https://github.com/ACUTE02/Climate-Domain-SLM-project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ACUTE02&repo=Climate-Domain-SLM-project&bg_color=0a0e14&title_color=8fb4e8&text_color=eef2f7&icon_color=f2b95a&border_color=1c2635&border_radius=14"/></a>
+<a href="https://github.com/ACUTE02/Muti-Agent-Climate-Risk-Analyst"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ACUTE02&repo=Muti-Agent-Climate-Risk-Analyst&bg_color=0a0e14&title_color=6fd3c4&text_color=eef2f7&icon_color=e3a3d6&border_color=1c2635&border_radius=14"/></a>
+<a href="https://github.com/ACUTE02/Grow-Vyaapar"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ACUTE02&repo=Grow-Vyaapar&bg_color=0a0e14&title_color=e3a3d6&text_color=eef2f7&icon_color=6fd3c4&border_color=1c2635&border_radius=14"/></a>
+<a href="https://github.com/ACUTE02/adaptive-learning-platform"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ACUTE02&repo=adaptive-learning-platform&bg_color=0a0e14&title_color=f2b95a&text_color=eef2f7&icon_color=8fb4e8&border_color=1c2635&border_radius=14"/></a>
+<a href="https://github.com/ACUTE02/Muti-Agent-AI-Research"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ACUTE02&repo=Muti-Agent-AI-Research&bg_color=0a0e14&title_color=8fb4e8&text_color=eef2f7&icon_color=f2b95a&border_color=1c2635&border_radius=14"/></a>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<details>
+<summary><b>&nbsp;What each one actually proves</b></summary>
 
-<h2 align="center">⚒️ Tech Stack</h2>
+<br>
+
+| Project | What it shows |
+| --- | --- |
+| 🛡️ **TrustMesh** | On a time split, XGBoost with four graph statistics beat every graph neural network tried (0.7482 vs 0.5913 PR-AUC). A voice model that looked too good (EER 0.0097) was reading leading silence; after trimming it scored 0.2380. Limits are listed first. |
+| 🌍 **Climate-Domain SLM** | Qwen2.5 tuned to answer from a passage or refuse. 1.5B SFT: F1 0.791, 0/32 false refusals, 11/11 correct refusals. DPO v1 failed and is reported as failed. DPO v2's gain sits inside overlapping intervals, so no claim is made. vLLM was about 3 to 4 times faster than plain transformers on a T4. |
+| 🌾 **Climate Risk Analyst** | Six LangGraph agents, leak-free drought forecasting, and a non-LLM grounding checker that verifies every figure in a report (precision 1.0, recall 0.93) and caught a real fabrication. 300+ tests. |
+| 🛒 **Grow Vyaapar** | Retail platform for eight kinds of shop from one codebase. Seven agents that never send anything by themselves. The churn model's ROC-AUC is below its own target, and that is reported, not tuned away. |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e3a3d6,50:f2b95a,100:6fd3c4" width="100%"/>
+
+<div align="center">
+
+### ✦ &nbsp;Toolbox
+
+</div>
 
 <table align="center">
 <tr>
-<td align="center" width="160"><b>💻 Languages</b></td>
+<td align="center" width="170"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,cs&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>ML and deep learning</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>LLM and agents</b></td>
 <td>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark&perline=3" height="55"/>
-
+<img src="https://img.shields.io/badge/LangGraph-0a0e14?style=flat-square&labelColor=0a0e14&color=6fd3c4"/>
+<img src="https://img.shields.io/badge/LangChain-0a0e14?style=flat-square&color=6fd3c4"/>
+<img src="https://img.shields.io/badge/Gemini_API-0a0e14?style=flat-square&color=6fd3c4"/>
+<img src="https://img.shields.io/badge/RAG-0a0e14?style=flat-square&color=6fd3c4"/>
+<img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-0a0e14?style=flat-square&color=e3a3d6"/>
+<img src="https://img.shields.io/badge/DPO-0a0e14?style=flat-square&color=e3a3d6"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0a0e14?style=flat-square&color=e3a3d6&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/vLLM-0a0e14?style=flat-square&color=e3a3d6"/>
+<img src="https://img.shields.io/badge/MLflow-0a0e14?style=flat-square&color=e3a3d6&logo=mlflow&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🧠 AI / ML / DL</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark&perline=3" height="55"/>
-
+<td align="center"><b>Backend and cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,docker,aws,linux,dotnet&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,neo4j,py&theme=dark"/>
+<img src="https://img.shields.io/badge/pgvector-0a0e14?style=flat-square&color=f2b95a"/>
+<img src="https://img.shields.io/badge/ChromaDB-0a0e14?style=flat-square&color=f2b95a"/>
+<img src="https://img.shields.io/badge/Pandas-0a0e14?style=flat-square&color=f2b95a&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-0a0e14?style=flat-square&color=f2b95a&logo=numpy&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🤖 GenAI & Agentic Systems</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tavily_Search-8B5CF6?style=flat-square"/>
-
-</td>
+<td align="center"><b>Frontend and 3D</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,threejs,vite,vercel&theme=dark"/></td>
 </tr>
 <tr>
-<td align="center"><b>⚙️ Backend & Cloud</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark&perline=3" height="55"/>
-<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases & Vector Stores</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-8B5CF6?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>📊 Data & Viz</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-5B8FA8?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>🛠️ Dev Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" height="55"/>
-
-</td>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/></td>
 </tr>
 </table>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<h2 align="center">🚀 Featured Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6fd3c4,50:8fb4e8,100:e3a3d6" width="100%"/>
 
 <div align="center">
 
-<table>
-<tr>
-<th align="left">📁 Project</th>
-<th align="left">📝 What it actually does</th>
-<th>🛠️ Stack</th>
-</tr>
-<tr>
-<td>🌾 <a href="https://github.com/ACUTE02/Muti-Agent-Climate-Risk-Analyst"><b>Multi-Agent Climate Risk Analyst</b></a></td>
-<td>6 LangGraph agents (drought, heat, RAG, crop-impact, synthesis) plus a <b>non-LLM grounding checker</b> that verifies every number a report claims. Ridge forecast: +0.21–0.26 skill vs. climatology at 1-month lead, honestly labeled <code>no skill</code> at 3 months. 248+ tests.</td>
-<td>Python · LangGraph · Gemini · ChromaDB · FastAPI · Docker</td>
-</tr>
-<tr>
-<td>🔎 <a href="https://github.com/ACUTE02/Muti-Agent-AI-Research"><b>Deep Research Agent</b></a></td>
-<td>LangChain search agent → Tavily → BeautifulSoup scraping → Gemini report writer → a second Gemini pass that critiques and scores its own output. Streamlit UI.</td>
-<td>Python · LangChain · Gemini · Tavily · Streamlit</td>
-</tr>
-<tr>
-<td>🧠 <a href="https://github.com/ACUTE02/adaptive-learning-platform"><b>Adaptive AI Learning Platform</b></a></td>
-<td>Extended the open-source <a href="https://github.com/learnhouse/learnhouse">LearnHouse</a> LMS with an AI layer: Ebbinghaus-curve retention engine, dynamic-difficulty routing, Gemini-generated courses & assessments.</td>
-<td>FastAPI · TypeScript/React · PostgreSQL · Gemini</td>
-</tr>
-</table>
+### ✦ &nbsp;Highlights
 
-<sub>Also on GitHub: <a href="https://github.com/ACUTE02/LSTM_model_drought_">LSTM drought forecasting</a> · <a href="https://github.com/ACUTE02/Data-Analysis-Visualization">IPL data analysis</a> · <a href="https://github.com/ACUTE02/Statistical-Hypothesis-Testing-and-Outlier-Detection">statistical hypothesis testing</a> · <a href="https://github.com/ACUTE02?tab=repositories">see all repos →</a></sub>
+🥈 &nbsp;**Bharatiya Antariksh Hackathon 2025**: led an AI Help Bot (Neo4j knowledge graph and web ingestion) among 8,000+ teams nationally<br>
+🎯 &nbsp;**SECVIT'24, VIT Bhopal**: inter-college hackathon participant<br>
+💻 &nbsp;**200+ DSA problems** solved across LeetCode and CodeHelp
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect-0a0e14?style=for-the-badge&labelColor=0a0e14&color=f2b95a&logo=amazonaws&logoColor=f2b95a"/>
+<img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-0a0e14?style=for-the-badge&labelColor=0a0e14&color=f2b95a&logo=amazonaws&logoColor=f2b95a"/>
+<br>
+<img src="https://img.shields.io/badge/Applied_ML_in_Python-Univ._of_Michigan-0a0e14?style=for-the-badge&labelColor=0a0e14&color=8fb4e8&logo=coursera&logoColor=8fb4e8"/>
+<img src="https://img.shields.io/badge/Google_IT_Support-0a0e14?style=for-the-badge&labelColor=0a0e14&color=8fb4e8&logo=google&logoColor=8fb4e8"/>
 
 </div>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<h2 align="center">🏆 Achievements & Certifications</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f2b95a,50:e3a3d6,100:8fb4e8" width="100%"/>
 
 <div align="center">
 
-🥈 &nbsp;**Bharatiya Antariksh Hackathon 2025** — led development of an AI Help Bot (Neo4j knowledge graphs + BeautifulSoup ingestion) among 8,000+ teams nationally
-🎯 &nbsp;**SECVIT'24, VIT Bhopal** — inter-college tech fest hackathon participant
-💻 &nbsp;**200+ DSA problems** solved across LeetCode & CodeHelp
+### ✦ &nbsp;Activity
 
-<br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ACUTE02&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=f2b95a&icon_color=8fb4e8&text_color=eef2f7&border_radius=14"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACUTE02&layout=compact&hide_border=true&bg_color=0a0e14&title_color=f2b95a&text_color=eef2f7&border_radius=14"/>
 
-<img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Applied_ML_in_Python-Univ._of_Michigan-00274C?style=for-the-badge&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ACUTE02&bg_color=0a0e14&color=eef2f7&line=f2b95a&point=e3a3d6&area=true&area_color=f2b95a&hide_border=true"/>
 
-</div>
+<br><br>
 
-<br>
+<a href="https://portfolioayushmaangupta.vercel.app"><img src="https://img.shields.io/badge/SEE_THE_3D_PORTFOLIO_→-f2b95a?style=for-the-badge&labelColor=0a0e14&color=f2b95a"/></a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ACUTE02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=ACUTE02&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACUTE02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ACUTE02&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C026D3&hide_border=true"/>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-### 💭 Quote
-
-> **"Great AI isn't built overnight — it's built one model, one experiment, and one line of code at a time."**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,25:7C3AED,50:2563EB,75:2C5364,100:0F2027&height=150&section=footer"/>
-
-**Thanks for stopping by — let's build something intelligent together! 🚀**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:f2b95a,55:101722,100:0a0e14&section=footer&reversal=true"/>
 
 </div>
